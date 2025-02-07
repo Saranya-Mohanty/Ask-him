@@ -42,7 +42,7 @@ function displayCatHeart() {
     // Create a new Image element for the cat-heart
     var catHeartImage = new Image();
     // Set the source (file path) for the cat-heart image
-    catHeartImage.src = "cat-heart.gif"; // Assuming the cat-heart image is named "cat-heart.gif"
+    catHeartImage.src = 'cat-heart.gif'; // Assuming the cat-heart image is named "cat-heart.gif"
     // Set alternative text for the image (for accessibility)
     catHeartImage.alt = 'Cat Heart';
     // When the cat-heart image is fully loaded, add it to the image container
@@ -61,7 +61,7 @@ function displayLoveyou() {
     // Create a new Image element for the love-you
     var LoveyouImage = new Image();
     // Set the source (file path) for the love-you image
-    LoveyouImage.src = "in-love-with-you-in-love.gif";
+    LoveyouImage.src = 'in-love-with-you-in-love.gif';
     // Set alternative text for the image (for accessibility)
     LoveyouImage.alt = 'Love You';
     // When the cat-heart image is fully loaded, add it to the image container
